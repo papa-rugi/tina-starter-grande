@@ -24,9 +24,9 @@
   "hero": {
     "image": "",
     "large": false,
-    "overlay": false,
+    "overlay": true,
     "overlap": "8rem",
-    "parallax": false
+    "parallax": true
   },
   "typography": {
     "uppercaseH2": false
