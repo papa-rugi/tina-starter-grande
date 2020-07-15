@@ -1,6 +1,16 @@
 {
   "menuItems": [
     {
+      "label": "test",
+      "link": "test",
+      "subMenu": [
+        {
+          "label": "test",
+          "link": "t"
+        }
+      ]
+    },
+    {
       "label": "Home",
       "link": "/"
     },
