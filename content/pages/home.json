@@ -7,22 +7,9 @@
     }
   ],
   "hero": {
-    "headline": "Welcome to Tina Gran",
-    "textline": "This template is filled with sample content to get you started.",
-    "ctas": [
-      {
-        "label": "Read The Blog",
-        "link": "/blog",
-        "primary": true,
-        "arrow": true
-      },
-      {
-        "label": "Contact Us",
-        "link": "/contact",
-        "arrow": false,
-        "primary": false
-      }
-    ],
+    "headline": "A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery",
+    "textline": "",
+    "ctas": [],
     "image": "../images/",
     "large": false
   },
