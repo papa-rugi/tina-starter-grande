@@ -24,7 +24,7 @@
       }
     ],
     "image": "../images/",
-    "large": true
+    "large": false
   },
   "displayTitle": false,
   "title": "Hom"
